@@ -1,1 +1,1 @@
-FTWGaming Bot Testing Server 2,4,4
+FTWGaming Bot Testing Server 2,5,0
